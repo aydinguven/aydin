@@ -1,6 +1,7 @@
 ## Work In Progress
 
 Meanwhile why not check [my LinkedIn](https://linkedin.com/in/aaslangoren)?
+
 [Works](works.md)
 
 ## Experience
