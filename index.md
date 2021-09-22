@@ -1,5 +1,7 @@
 ## Work In Progress
 
+<img src=assets/images/1625057455411.jfif>
+
 Meanwhile why not check [my LinkedIn](https://linkedin.com/in/aaslangoren)?
 
 [Works](works.md)
