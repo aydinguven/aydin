@@ -31,5 +31,5 @@ The trailer I made for the project.
 
 <img src="/assets/images/pong/Light02.png">
 <img src="/assets/images/pong/Particle01.png">
-<img src="/assets/images/pong/Moood02.png">
+<img src="/assets/images/pong/Mood02.png">
 <img src="/assets/images/pong/stardestroyer.png">
