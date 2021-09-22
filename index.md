@@ -1,6 +1,6 @@
 ## Work In Progress
 
-<img style="width: 240px" src=/assets/images/1625057455411.jfif>
+<img src="/assets/images/1625057455411.jfif" style="width: 240px">
 
 Meanwhile why not check [my LinkedIn](https://linkedin.com/in/aaslangoren)?
 
