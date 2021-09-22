@@ -18,7 +18,7 @@ Explosions and Pong!
 
 ## Cinematic Trailer
 
-<iframe width="100%" src="https://www.youtube-nocookie.com/embed/jPfKx-NIeQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="100%" src="https://www.youtube-nocookie.com/embed/jPfKx-NIeQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The trailer I made for the project.
 
@@ -26,7 +26,7 @@ The trailer I made for the project.
 
 ## Teaser
 
-<iframe width="100%" src="https://www.youtube-nocookie.com/embed/p62AQntlNK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="100%" src="https://www.youtube-nocookie.com/embed/p62AQntlNK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <img src="/assets/images/pong/Light02.png">
