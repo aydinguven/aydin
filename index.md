@@ -9,7 +9,9 @@ Meanwhile why not check [my LinkedIn](https://linkedin.com/in/aaslangoren)?
 ### Assistant Specialist
 ### Central Bank of the Republic of Turkey
 
+
 **Dec 2019 – Present (1 yr 8 mos)**
+#### Keywords: #automation #servers #ansible #infrastructure #python #linux
 
 As a system administrator I have worked with virtualized systems consisting of mainly RHEL and Windows Server VMs running on VMware alongside the automation tools like Ansible, Satellite, AWX. 
 I regularly wrote PowerShell and Bash scripts for multiple tasks.
@@ -21,6 +23,7 @@ Using Python I have created an Server Inventory App; which synchronizes data fro
 ### Researcher
 ### Hacettepe University Computer Graphics and Game Studies Lab
 **2017 – 2021**
+#### Keywords: #virtualreality #unity #rendering #simulation #psychology #graphics
 
 I've worked in collaboration with other departments (Psychology, Medicine faculties) to help them implement their projects in VR environments as "serious games" / "simulations".
 
