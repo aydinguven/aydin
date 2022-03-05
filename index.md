@@ -4,6 +4,8 @@
 
 Meanwhile why not check [my LinkedIn](https://linkedin.com/in/aaslangoren)?
 
+Also here's my old [WebSite/Portfolio](https://yunus.hacettepe.edu.tr/~aydin.aslangoren/indexold.html)
+
 [Works](works.md)
 
 ## Experience
