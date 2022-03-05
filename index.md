@@ -12,7 +12,7 @@ Also here's my old [WebSite/Portfolio](https://yunus.hacettepe.edu.tr/~aydin.asl
 ### Central Bank of the Republic of Turkey
 
 
-**Dec 2019 – Present (1 yr 8 mos)**
+**Dec 2019 – Present (2 yr 3 mos)**
 #### Keywords: #automation #servers #ansible #infrastructure #python #linux
 
 As a system administrator I have worked with virtualized systems consisting of mainly RHEL and Windows Server VMs running on VMware alongside the automation tools like Ansible, Satellite, AWX. 
