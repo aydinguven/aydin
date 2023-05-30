@@ -8,26 +8,33 @@ Also here's my old [WebSite/Portfolio](https://yunus.hacettepe.edu.tr/~aydin.asl
 
 ## Experience
 
-### Assistant Specialist
+### Specialist (Computer Engineer - System Administrator)
 ### Central Bank of the Republic of Turkey
 
 
-**Dec 2019 – Present (2 yr 3 mos)**
+**Dec 2019 – Present (3 yr 6 mos)**
 #### Keywords: #automation #servers #ansible #infrastructure #python #linux
 
-As a system administrator I have worked with virtualized systems consisting of mainly RHEL and Windows Server VMs running on VMware alongside the automation tools like Ansible, Satellite, AWX. 
-I regularly wrote PowerShell and Bash scripts for multiple tasks.
+As a system administrator I have worked with virtualized systems consisting of mainly RHEL and Windows Server VMs running on VMware alongside tools like Ansible, Terraform, Satellite etc. I have worked with critical systems that require 100% uptime.
 
-During our automation evaluations I also had the chance to work with Terraform, SaltStack and contemporaries.
+My main project was Infrastructure Automation. I took initiative and pushed for automation, then led the efforts to introduce automation to our systems. During our evaluations I had the chance to work with Terraform, Saltstack, Cloudforms and contemporaries. I integrated AWX (upstream ansible tower) running on Kubernetes to our infrastructure as a proof of concept, then made all of our provision, configuration, patching, management jobs run on Ansible Automation Platform scheduled and hands-free.
 
-Using Python I have created an Server Inventory App; which synchronizes data from vCenter, Active Directory, our local databases and mail servers, thus enabling us to monitor & manage our server inventory while keeping it automatically updated and alerting related users if needed. Completed with advanced reporting features, it evolved from a side project to a critical app for multiple departments. In addition to my administration tasks, I've maintained and developed the inventory app for wider use.
+Similar to automation, I've reached beyond my job duties and created a Server Inventory App using Python, Django and SQLite; which synchronizes data from VMware vCenter, Active Directory, Ansible Automation Platform, Tenable, our local databases and mail servers. It quickly grew beyond it's original purposes and became a central hub for us to monitor, list and report everything related to our infrastructure. 
+
+Later on I've rewrote the app on Flask and moved the database to PostgreSQL while also writing an API.
+
+In addition to these projects, I regularly wrote Powershell and Bash scripts, configured RHEL and Windows Servers. Gained proficiency in Linux servers and worked with Docker/Kubernetes.
 
 ### Researcher
 ### Hacettepe University Computer Graphics and Game Studies Lab
 **2017 – 2021**
 #### Keywords: #virtualreality #unity #rendering #simulation #psychology #graphics
 
-I've worked in collaboration with other departments (Psychology, Medicine faculties) to help them implement their projects in VR environments as "serious games" / "simulations".
+I've worked in collaboration with other departments (Psychology, Medicine faculties) to help them implement their projects in VR environments as "serious games" / "simulations". 
+
+One of my VR projects won the first place in our department, and was presented at XI Congreso Internacional y XVI Nacional de Psicología Clínica at Granada/Spain in October 2018.
+
+My other noteworthy contributions included rendering simulated fluids on VR, realistic hand tracking and hand interactions (initially using LeapMotion with HTC Vive, then Oculus Quest 2)
 
 
 
