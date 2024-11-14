@@ -1,86 +1,136 @@
-## Work In Progress
+# Aydın Aslangören
 
-Meanwhile why not check [my LinkedIn](https://linkedin.com/in/aaslangoren)?
+## About Me
+I am a System Administrator Specialist at the Central Bank of the Republic of Turkey, where I focus on infrastructure automation, system reliability, and innovative solutions in a mission-critical financial environment. With a perfect score RHCSA certification and extensive experience in automation, I specialize in developing robust systems that maintain 99.999% uptime while pushing the boundaries of operational efficiency.
 
-Also here's my old [WebSite/Portfolio](https://yunus.hacettepe.edu.tr/~aydin.aslangoren/indexold.html)
+My passion lies in creating elegant automation solutions that transform complex manual processes into streamlined, reliable operations. Working in a central bank environment has honed my skills in delivering zero-error solutions where stability and security are paramount.
 
-[Works](works.md)
+## Professional Experience
 
-## Experience
+### System Administrator Specialist
+**Central Bank of the Republic of Turkey** | _December 2019 - Present_
 
-### Specialist (Computer Engineer - System Administrator)
-### Central Bank of the Republic of Turkey
+Working in a highly regulated financial environment where system reliability and security are mission-critical. My key responsibilities and achievements include:
 
+#### Infrastructure Automation
+- Led the initiative to introduce comprehensive infrastructure automation
+- Designed, developed, and implemented custom tools for VM provisioning, snapshots, and updates
+- Achieved 99.999% uptime in a zero-error-tolerance environment
+- Successfully automated critical financial infrastructure components with comprehensive failsafes
 
-**Dec 2019 – Present (3 yr 6 mos)**
-#### Keywords: #automation #servers #ansible #infrastructure #python #linux
+#### System Development & Integration
+- Created a Server Inventory Application using Python (Django/Flask) and PostgreSQL
+- Integrated multiple enterprise systems including VMware vCenter, Active Directory, and Tenable
+- Developed custom monitoring and management solutions
+- Established and maintained the TCMB AI Infrastructure
 
-As a system administrator I have worked with virtualized systems consisting of mainly RHEL and Windows Server VMs running on VMware alongside tools like Ansible, Terraform, Satellite etc. I have worked with critical systems that require 100% uptime.
+#### System Administration
+- Managed virtualized systems consisting of RHEL and Windows Server VMs on VMware
+- Successfully migrated hundreds of RHEL servers to next major versions with minimal downtime
+- Implemented and maintained critical systems requiring 100% uptime
+- Utilized tools including Ansible, Terraform, Satellite, and various automation platforms
 
-My main project was Infrastructure Automation. I took initiative and pushed for automation, then led the efforts to introduce automation to our systems. During our evaluations I had the chance to work with Terraform, Saltstack, Cloudforms and contemporaries. I integrated AWX (upstream ansible tower) running on Kubernetes to our infrastructure as a proof of concept, then made all of our provision, configuration, patching, management jobs run on Ansible Automation Platform scheduled and hands-free.
+### Software Development Intern
+**MKEK** | _July - August 2017_
+- Focused on software development projects
+- Gained practical experience in enterprise-level development
 
-Similar to automation, I've reached beyond my job duties and created a Server Inventory App using Python, Django and SQLite; which synchronizes data from VMware vCenter, Active Directory, Ansible Automation Platform, Tenable, our local databases and mail servers. It quickly grew beyond it's original purposes and became a central hub for us to monitor, list and report everything related to our infrastructure. 
+### Software Development Intern
+**EnerjiSA** | _June - August 2016_
+- Contributed to software development initiatives
+- Learned enterprise software development practices
 
-Later on I've rewrote the app on Flask and moved the database to PostgreSQL while also writing an API.
-
-In addition to these projects, I regularly wrote Powershell and Bash scripts, configured RHEL and Windows Servers. Gained proficiency in Linux servers and worked with Docker/Kubernetes.
-
-### Researcher
-### Hacettepe University Computer Graphics and Game Studies Lab
-**2017 – 2021**
-#### Keywords: #virtualreality #unity #rendering #simulation #psychology #graphics
-
-I've worked in collaboration with other departments (Psychology, Medicine faculties) to help them implement their projects in VR environments as "serious games" / "simulations". 
-
-One of my VR projects won the first place in our department, and was presented at XI Congreso Internacional y XVI Nacional de Psicología Clínica at Granada/Spain in October 2018.
-
-My other noteworthy contributions included rendering simulated fluids on VR, realistic hand tracking and hand interactions (initially using LeapMotion with HTC Vive, then Oculus Quest 2)
-
-
-
-### Junior Software Engineer
-### Atlas Eğitim Yazılımları
-
-**Aug 2019 – Oct 2019 (3 mos)**
-
-I've worked as a full stack .NET MVC Developer here to add features to the company's main product. Worked with C#, C++, JavaScript, AngularJS.
-
-
-### Intern
-### MKE
-
-**Jul 2017 – Aug 2017 (2 mos)**
-
-I've worked on a database management system using ASP.NET and I've also written a proof of concept document encryption app using Windows Forms.
-
-
-### Intern
-### Enerjisa Başkent Elektrik Dağıtım A.Ş.
-
-**Jun 2016 – Aug 2016 (3 mos)**
-
-Initially I worked at the IT department for a while and created batch scripts to configure devices for end-users.
-
-After a week I started at the software department and observed a big project, then worked on it while using ASP.NET MVC, Javascript, HTML and CSS. Also did some small tasks to learn about frameworks like Kendo UI, Rocket, Node.js etc.
-
-
-#### Education
+## Education
 
 ### Hacettepe University
-### Bachelor's degree, Computer Science
+**Bachelor's Degree in Computer Engineering** | _2014 - 2019_
 
-**2014 – 2018**
-
-We took a mix of CS and CEng topics. During this time I've done more than hundred assignments on many different languages and frameworks.
-
-My graduation project (a short description would be OCD Exposure Therapy on VR) won the first place in our department and our collaborators, the Psychology Department presented it on different expos on multiple countries.
-
-Since it was a success and gathered interest, I was offered to work on a similar project in collaboration with Hacettepe University Medicine Department. It aims to eliminate test anxiety on adolescents at a test simulation in VR. Currently it's at testing phase.
-
+- Specialized in Game Design and Virtual Reality
+- Key Project: "Evaluating Efficacy of Virtual Reality Exposure Therapy of Contamination-Fear-Centric OCD"
+  - Collaborated with Psychology Department
+  - Won multiple awards
+  - Pioneered VR technology implementation in therapeutic contexts
+- Extracurricular Activities:
+  - Contemporary Dance
+  - Drama
+  - Acting
 
 ### Ankara Science High School
-### Science
+**2009 - 2013**
 
-**2009 – 2013**
+- Top-performing student with 96% entrance exam score
+- Member of Chess Team
+- Advanced Science curriculum focusing on mathematics and sciences
 
-I studied in this high school where the top minds enter and get an advanced education. To enter here I aced one of the exams and got a 96% score on the other one.
+## Technical Expertise
+
+### Infrastructure & Systems
+- RHEL (RHCSA9 Certified with perfect 300/300 score)
+- Windows Server
+- VMware Administration
+- Docker & Kubernetes
+- Infrastructure as Code
+- Debian, Fedora
+
+### Automation & DevOps
+- Ansible Automation Platform
+- Terraform
+- AWX/Ansible Tower
+- CI/CD Implementation
+
+### Programming & Development
+- Python (Django, Flask, FastAPI)
+- PowerShell
+- Bash Scripting
+- API Development
+- Database Management (PostgreSQL, SQLite)
+
+### Cloud & Virtualization
+- VMware vCenter
+- VM Management & Automation
+- Cloud Infrastructure Design
+- System Integration
+
+## Certifications & Achievements
+
+### Professional Certifications
+- RHCSA9 EX200 (Perfect score 300/300)
+
+### Academic Excellence
+- YDS (Foreign Language Test): 97.5/100 (April 2023)
+- ALES (Academic Personnel Acceptance Test): 95.5/100 (November 2019)
+- ALES: 93.3/100 (January 2018) - Ranked 568th among 221,660 applicants
+- YDS: 96.25/100 (January 2018)
+
+### Languages
+- Turkish: Native
+- English: Advanced (YDS 97.5/100)
+
+## Projects & Implementations
+
+### Infrastructure Automation Initiative
+Led the transformation of manual infrastructure management to automated processes:
+- Designed and implemented self-service solutions
+- Created custom tools for VM management
+- Achieved near-perfect uptime in critical systems
+- Implemented comprehensive monitoring and alerting
+
+### Server Inventory Application
+Developed a central management solution that:
+- Synchronizes data from multiple enterprise systems
+- Provides real-time infrastructure insights
+- Enables efficient resource management
+- Streamlines reporting and monitoring
+
+### AI Infrastructure Development
+Established the foundation for AI initiatives:
+- Set up complete AI infrastructure
+- Ensured scalability and reliability
+- Implemented security best practices
+- Enabled efficient resource utilization
+
+## Contact Information
+[contact@aydinaslangoren.com]
+
+---
+*Last Updated: [14.11.2024]*
